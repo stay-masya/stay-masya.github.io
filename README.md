@@ -17,5 +17,8 @@
 
 ### Ссылка на развернутый рабочий пример
 
-Результат присылайте в виде cсылки на исходный код выполненного задания в вашем репозитории [https://github.com](https://github.com)
-( также весьма желателен [развернутый рабочий пример](https://muranosoftware.github.io/weblink-test/) на http://github.io )
+Ссылка на развернутый пример
+https://stay-masya.github.io/
+
+Ссылка не репо GitHub
+https://github.com/stay-masya/stay-masya.github.io
